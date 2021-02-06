@@ -1,0 +1,19 @@
+{
+  "name": "srauto",
+  "version": "1.0.0",
+  "description": "Srautomotriz web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgomez-2015482/sra-project.git"
+  },
+  "author": "Bryan Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bgomez-2015482/sra-project/issues"
+  },
+  "homepage": "https://github.com/bgomez-2015482/sra-project#readme"
+}
